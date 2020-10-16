@@ -11,6 +11,8 @@ Android手机Alipay支付宝App-蚂蚁森林能量收集，如果有用，请点
 
 请使用最新版支付宝APP
 
+手机开启开发者模式，并允许USB调试、安装。
+
 修改 ant_forest.py 中的sn手机设备号，通过adb devices获取。
 
 执行（对应自己的python版本使用python或python3）：
